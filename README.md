@@ -1,5 +1,4 @@
 # 👤 Personal-Web
-My Portofolio
 
 #### 🌐 Social
 ![https://instagram.com/ghifariazhrr_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
